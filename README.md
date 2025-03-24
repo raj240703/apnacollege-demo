@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Raj Mamarde
+Author - Raj Mamarde (sumi)
